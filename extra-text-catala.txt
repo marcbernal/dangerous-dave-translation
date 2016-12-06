@@ -1,0 +1,273 @@
+-----------------------------------------------
+
+Dangerous Dave leaderboard text and achievement text
+
+Type your translation after "TRANS:"
+
+-----------------------------------------------
+LANGUAGE: CATALÀ
+-----------------------------------------------
+
+high scores
+TRANS: millors puntuacions
+
+fastest time on level X
+TRANS: temps més ràpid al nivell X
+
+level X finished
+TRANS: X acabat
+
+-----------------------------------------------
+
+Can you beat Level 1? Need I even ask?
+TRANS: Pots superar el nivell 1? Cal que ho pregunti?
+
+That was easy. I'll give you points anyway.
+TRANS: Això ha estat molt senzill. Igualment et donaré punts.
+
+-----------------------------------------------
+
+Can you beat Level 2? This one is a little harder.
+TRANS: Pots superar el nivell 2? Aquest és una mica més complicat.
+
+Good job. You're on your way....to madness.
+TRANS: Bona feina. Estàs al bon camí....directe a perdre el cap.
+
+-----------------------------------------------
+
+Can you beat Level 3? This is where the game becomes difficult.
+TRANS: Pots superar el nivell 3? Aquí és on comença ha ser difícil.
+
+Great job killing those spiders, and avoiding the weirdweeds and fire!
+TRANS: Bona feina matant les aranyes i esquivant les males herbes i el foc!
+
+-----------------------------------------------
+
+Can you beat Level 4? This is where Slicer destroys all who enter its lair.
+TRANS: Pots superar el nivell 4? Aquí és on l'Slicer destrueix qualsevol que entra a casa seva.
+
+Wow, getting past Slicer is tough - good job!
+TRANS: Wow, superar l'Slicer és ben dur - bona feina!
+
+-----------------------------------------------
+
+Can you beat Level 5? The lake is quite deadly...
+TRANS: Pots superar el nivell 5? El llac és una mica mortal...
+
+Awesome lake-jumping antics! Did you find the Warp Zone?
+TRANS: Impressionant numeret saltant pel llac! Has trobat la zona de distorsió?
+
+-----------------------------------------------
+
+It's starting to get difficult! Can you beat Level 6?
+TRANS: Ja comença a ser més complicat! Podràs superar el nivell 6?
+
+Those were some nimble moves in that trophy section!
+TRANS: Han estat uns moviments molt àgils a la secció dels trofeus!
+
+-----------------------------------------------
+
+Can you handle Level 7?
+TRANS: Podràs amb el nivell 7?
+
+Nice work turning those robots into robo-rubble!
+TRANS: Bona feina transformant els robots en ferralla!
+
+-----------------------------------------------
+
+The heat is turning up on Dave! Can you beat Level 8?
+TRANS: Comença a pujar la temperatura! Podràs superar el nivell 8?
+
+Don't hate Level 8. Great job getting through this one.
+TRANS: No odiïs el nivell 8. Bona feina superant-lo !
+
+-----------------------------------------------
+
+Pure evil awaits. I feel sorry for you.
+TRANS: La més pura vilesa t'espera! Em sap greu per tu.
+
+Wow. Incredible job. That level was WICKED!
+TRANS: Wow! Increïble! Aquest nivell estava maleit.
+
+-----------------------------------------------
+
+Obviously, Dave must be stopped. At least that's what Level 10 is trying to do!
+TRANS: Òbviament, en Dave ha de ser aturat. Almenys el nivell 10 està dissenyat per això!
+
+Unbelievable performance! You are an absolute winner!
+TRANS: Rendiment increïble! Ets l'absolut guanyador!
+
+-----------------------------------------------
+
+level X complete
+TRANS: nivell X completat
+
+Can you gather all the items from Level X?
+TRANS: Pots reunir tots els ítems del nivell X?
+
+You grabbed everything in Level X!
+TRANS: Ho has agafat tot del nivell X!
+
+-----------------------------------------------
+
+The Completist
+TRANS: El Acomplidor
+
+Can you grab every item from every level?
+TRANS: Pots agafar tots els ítems de tots els nivells?
+
+This is the ultimate achievement of Dave's career!
+TRANS: Aquest és l'últim assoliment en la carrera d'en Dave.
+
+-----------------------------------------------
+
+trophy trouble
+TRANS: Problema Trofeu
+
+Can you find them all? Clyde hid 'em well.
+TRANS: Pots trobar-los tots? En Clyde els ha amagat be.
+
+Astounding skills - you found all 15 trophies!
+TRANS: Sorprenents habilitats - has trobat els 15 trofeus!
+
+-----------------------------------------------
+
+Dangerous Dave Does It
+TRANS: Dangerous Dave Ho Peta
+
+Do you have what it takes to get your trophies back and defeat Clyde?
+TRANS: Tens el que s'ha de tenir per recuperar els teus trofeus i derrotar en Clyde?
+
+Amazing work! You have triumphed over Clyde and recovered your valuables, winner!
+TRANS: Molt bona feina! Has triomfat per sobre d'en Clyde i recuperat els teus trofeus !
+
+-----------------------------------------------
+
+Pacifist Dave
+TRANS: Dave Pacifista
+
+Can you complete the game without shooting any enemies?
+TRANS: Pots acabar el joc sense disparar a cap enemic?
+
+That took courage and stamina in a world warped by Clyde! Great job!
+TRANS: Això necessita coratge en el món d'en Clyde! Bona feina!
+
+-----------------------------------------------
+
+Sofisticat Informal
+TRANS: 
+
+Can you read every one of Clyde's notes?
+TRANS: Pots llegir totes les notes d'en Clyde?
+
+Some of those were tough to get - great job!
+TRANS: Algunes eren difícils d'agafar - bona feina!
+
+-----------------------------------------------
+1215 Maniacal UI Taps
+TRANS: 1215 UI Maníaca
+
+Can you figure out the secret of the moving words?
+TRANS: Pots desxifrar el secret de les paraules en moviment?
+
+Your monkey-like tapping on the UI rewards you with a Dopefish! 12/15/1991 is Dopefish's birthday!
+TRANS: Semblaves un mico apretant la pantalla! Et mereixes el 'DopeFish'! 15/12/1991 és el seu aniversari! 
+
+-----------------------------------------------
+
+Killed by enemy collision - ALL ENEMIES
+TRANS: Mort per col·lisió enemiga - TOTS ELS ENEMICS
+
+Do you have the strength to sacrifice yourself?
+TRANS: Tens la força suficient per sacrificar-te?
+
+Incredible work - that was a lot of lives wasted!
+TRANS: Feina increïble - has perdut un munt de vides!
+
+-----------------------------------------------
+
+Great Balls of Fire
+TRANS: Grans Pilotes de Foc
+
+Spontaneous Human Combustion? Not likely - it's suicide!
+TRANS: Combustió humana espontània? No ... és un suïcidi!
+
+There is no amount of skin grafts that can fix Dave now.
+TRANS: No hi ha suficient pell al món per arreglar a en Dave.
+
+-----------------------------------------------
+
+Death by Weed
+TRANS: Mort per Males Herbes
+
+What's weirder than waving purple weeds? Being killed by them 50x!
+TRANS: Què és pitjor que tenir males herbes? Morir a causa d'elles!
+
+You obviously love pain. Deep purple pain.
+TRANS: T'encanta el dolor, el disfrutes!
+
+-----------------------------------------------
+
+Glub Glub Glub
+TRANS: Glub  Glub Glub
+
+Drowning is tough stuff.
+TRANS: Ofegar-se és dur.
+
+After all those watery deaths, your skin must be a wrinklefest!
+TRANS: Després de morir ofegat tantes vegades, la teva pell és una festa d'arrugues!
+
+-----------------------------------------------
+Deadly Shots Glob
+TRANS: Trets Mortals de Glob
+
+
+Suicide is the only solution for this achievement.
+TRANS: El suïcidi és la única opció.
+
+Sometimes you can't help but get blasted on every level with an enemy. Except that you actually wanted this.
+TRANS: A vegades necessites sort per no morir a causa d'un enemic, excepte quan realment vols morir !
+
+-----------------------------------------------
+
+Jetpack Get
+TRANS: Jetpack!
+
+It's fun to find jetpacks!
+TRANS: És divertit trobar Jetpacks!
+
+You found 50 of these little green beauties - well earned!
+TRANS: Has trobat 50 belleses verdes - ben guanyat!
+
+-----------------------------------------------
+
+Gun Get!
+TRANS: Pistola!
+
+How many shiny guns can you get?
+TRANS: Quantes en podràs aconseguir?
+
+Grabbing 50 of these chrome Colts makes you a happy redneck!
+TRANS: Felicitats! Has aconseguit 50 Colts !
+
+-----------------------------------------------
+
+Warp Zone Get
+TRANS: Zona Distorsió
+
+Can you find the elusive Warp Zone?
+TRANS: Has pogut trobar la zona de distorsió?
+
+Great work figuring this one out!
+TRANS: Bona feina trobant-la!
+
+-----------------------------------------------
+
+Warp Zone Warrior
+TRANS: Guerrer Zona Distorsió
+
+Can you find all the warp zones?
+TRANS: Pots trobar totes les zones de distorsió?
+
+You are quite the warp warrior - great job!
+TRANS: Felicitats! Ets el mestre de la distorsió!

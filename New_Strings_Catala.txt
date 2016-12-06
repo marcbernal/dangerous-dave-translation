@@ -1,0 +1,7 @@
+str.strings[ "jetpack" ][ en_CA ] = "Jetpack"				
+str.strings[ "txt-extra-dave" ][ en_CA ] = "Vols veure un anunci per aconseguir una vida extra?"
+str.strings[ "yes" ][ en_CA ] = "Si"
+str.strings[ "no" ][ en_CA ] = "No"
+str.strings[ "txt-no-ads" ][ en_CA ] = "Ho sento, no hi ha més publicitat."
+str.strings[ "txt-level-warp" ][ en_CA ] = "A quin nivell vols començar?\n\n\n\n "
+str.strings[ "paid" ][ en_CA ] = "Pagat "

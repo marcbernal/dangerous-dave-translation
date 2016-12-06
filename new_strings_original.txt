@@ -1,0 +1,7 @@
+str.strings[ "jetpack" ][ en_US ] = "Jetpack"				
+str.strings[ "txt-extra-dave" ][ en_US ] = "Would you like to view an advertisement for an extra life?"
+str.strings[ "yes" ][ en_US ] = "Yes"
+str.strings[ "no" ][ en_US ] = "No"
+str.strings[ "txt-no-ads" ][ en_US ] = "No ads to show, sorry."
+str.strings[ "txt-level-warp" ][ en_US ] = "Which level to start on?\n\n\n\n "
+str.strings[ "paid" ][ en_US ] = "Paid "
